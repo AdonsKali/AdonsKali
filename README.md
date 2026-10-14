@@ -1,16 +1,121 @@
-## Hi there 👋
+ <div align="center">
 
-<!--
-**AdonsKali/AdonsKali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ Welcome to my profile! ✨
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Yaroslav;Python+%2F+React+%2F+Fullstack+Developer" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Turning ideas into code, one project at a time.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-AdonsKali-181717?style=for-the-badge&logo=github)](https://github.com/AdonsKali)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derevianckin@mail.ru)
+
+</div>
+
+---
+
+## 👋 Обо мне
+
+Я **Ярослав Деревянкин**, разработчик с опытом около **5 лет в изучении и освоении сферы IT**. Я постоянно изучаю новые технологии, экспериментирую с различными инструментами и создаю собственные проекты.
+
+- 💻 Интересуюсь Python, бэкенд-разработкой и созданием десктопных приложений.
+- 🚀 Всегда открыт к изучению новых технологий и совершенствованию своих навыков.
+- 🌌 Увлекаюсь космосом и психологией.
+- 🏋️ Люблю спорт.
+
+## 🛠️ Технологический стек
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Qt](https://img.shields.io/badge/PySide%20%2F%20Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![LLamaCpp](https://img.shields.io/badge/Inference-llama.cpp%20GGUF-orange?style=for-the-badge&logo=c%2B%2B)
+![RestAPI](https://img.shields.io/badge/REST_API-%E2%9C%93-lightgrey?style=for-the-badge)
+
+</div>
+
+| Категория | Технологии |
+|---|---|
+| **Языки программирования** | Python, Go |
+| **Backend и API** | FastAPI, REST, GraphQL |
+| **Тестирование** | PyTest |
+| **Frontend** | HTML, CSS, JavaScript, React |
+| **Базы данных** | PostgreSQL |
+| **Разработка десктопных приложений** | PySide, Qt |
+| **Инструменты и инфраструктура** | Docker, Linux |
+
+## 🚀 Избранные проекты
+
+### 🤖 Lina AI
+
+Локальный десктопный ИИ-агент, выполненный в виде **персонажа в стиле shimeji**. Цель проекта — объединить анимированного виртуального спутника с возможностями искусственного интеллекта, помогающими пользователям в решении различных задач.
+
+**Ключевые особенности:**
+- 🖥️ Десктопный ИИ-компаньон.
+- 🧠 Архитектура локального ИИ-агента.
+- ✨ Анимированный персонаж и интерактивное взаимодействие.
+
+**Репозиторий:** [AdonsKali/LinaDesk](https://github.com/AdonsKali/LinaDesk)
+
+---
+
+### 🌐 Lina AI — React-приложение
+
+Веб-сайт, представляющий проект Lina AI; содержит информацию о проекте и интерактивный функционал.
+
+**Демо:** [linaweb.page.gd](https://linaweb.page.gd)
+
+---
+
+### 💬 Telegram-бот
+
+Telegram-бот, созданный для предоставления информации о Lina AI и обеспечения взаимодействия с проектом.
+
+## 💼 Опыт работы
+
+### Frontend-разработчик — WEBITLAB
+
+**2024 · 3 месяца**
+
+- Разработал около **5 проектов верстки сайтов**.
+- Работал с HTML, CSS и JavaScript.
+- Получил практический опыт работы с **Tilda, Bitrix24 и WordPress**.
+
+## 🎓 Образование
+
+**Томский государственный университет**  
+Институт прикладной математики и компьютерных наук
+
+📅 **2023–2027**
+
+## 🌍 Языки
+
+- 🇷🇺 Русский — Родной
+- 🇬🇧 Английский — B1
+
+## 📫 Контакты
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-AdonsKali-181717?style=for-the-badge&logo=github)](https://github.com/AdonsKali)
+[![Email](https://img.shields.io/badge/Email-derevianckin%40mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derevianckin@mail.ru)
+
+</div>
+
+---
+
+<div align="center">
+
+*Спасибо, что заглянули в мой профиль! Хорошего дня.* ✨
+
+</div>
