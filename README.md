@@ -44,43 +44,6 @@
 
 </div>
 
-| Категория | Технологии |
-|---|---|
-| **Языки программирования** | Python, Go |
-| **Backend и API** | FastAPI, REST, GraphQL |
-| **Тестирование** | PyTest |
-| **Frontend** | HTML, CSS, JavaScript, React |
-| **Базы данных** | PostgreSQL |
-| **Разработка десктопных приложений** | PySide, Qt |
-| **Инструменты и инфраструктура** | Docker, Linux |
-
-## 🚀 Избранные проекты
-
-### 🤖 Lina AI
-
-Локальный десктопный ИИ-агент, выполненный в виде **персонажа в стиле shimeji**. Цель проекта — объединить анимированного виртуального спутника с возможностями искусственного интеллекта, помогающими пользователям в решении различных задач.
-
-**Ключевые особенности:**
-- 🖥️ Десктопный ИИ-компаньон.
-- 🧠 Архитектура локального ИИ-агента.
-- ✨ Анимированный персонаж и интерактивное взаимодействие.
-
-**Репозиторий:** [AdonsKali/LinaDesk](https://github.com/AdonsKali/LinaDesk)
-
----
-
-### 🌐 Lina AI — React-приложение
-
-Веб-сайт, представляющий проект Lina AI; содержит информацию о проекте и интерактивный функционал.
-
-**Демо:** [linaweb.page.gd](https://linaweb.page.gd)
-
----
-
-### 💬 Telegram-бот
-
-Telegram-бот, созданный для предоставления информации о Lina AI и обеспечения взаимодействия с проектом.
-
 ## 💼 Опыт работы
 
 ### Frontend-разработчик — WEBITLAB
@@ -102,20 +65,3 @@ Telegram-бот, созданный для предоставления инфо
 
 - 🇷🇺 Русский — Родной
 - 🇬🇧 Английский — B1
-
-## 📫 Контакты
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-AdonsKali-181717?style=for-the-badge&logo=github)](https://github.com/AdonsKali)
-[![Email](https://img.shields.io/badge/Email-derevianckin%40mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derevianckin@mail.ru)
-
-</div>
-
----
-
-<div align="center">
-
-*Спасибо, что заглянули в мой профиль! Хорошего дня.* ✨
-
-</div>
